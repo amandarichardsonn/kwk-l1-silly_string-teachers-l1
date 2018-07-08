@@ -1,7 +1,7 @@
 
 # Challenge 1: Fill this string in with your favorite word
 
-your_favorite_word = "amanda"
+your_favorite_word = amanda
 
 puts "My favorite word is #{your_favorite_word}"
 
